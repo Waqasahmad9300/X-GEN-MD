@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['03077889300', '03077889300', true], 
+  ['03077889300', 'Kashii Lover 💕', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
-global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.mods = ['put-your-number','03077889300'] //Don't replace this,If you want to add someone add any dev
+global.prems = ['03486423988','']
+global.nomorbot = '03077889300' //Change it to your own
+global.nomorown = '03077889300' //Change it to your own
+global.namebot = 'Kashii 💕 Mishii' //change it to your own
+global.nameown = 'Kashii Lover 💕' // change it to your own
 
 //*============= ==============*/
 
@@ -78,8 +78,8 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '03077889300' //Nomor Danamu
+global.ppulsa = '03077889300' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 
@@ -153,7 +153,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '03077889300'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -177,7 +177,9 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *Dᴀꜱʜʙᴏᴀʀᴅ* ❏═┅═━━━┅'
+global.dashmenu = '┏━━━━  💓  ━━━━┓
+🖤Kashii ♡ Mishii  ❤️
+┗━━━━  💖  ━━━━┛'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊🔖'                            //body
@@ -193,9 +195,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_sla.sher_'
+global.stickpack = 'Kashii 💕 Mishii'
 global.stickauth = `「 x-ɢᴇɴ-ᴍᴅ 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
+global.packname = 'Kashii 💕 Mishii'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ x-ɢᴇɴ-ᴍᴅ'
 
 global.multiplier = 38 // The higher, The harder levelup
